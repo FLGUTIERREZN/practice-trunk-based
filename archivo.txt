@@ -1,1 +1,3 @@
 Nuevo texto de archivo2
+Otro nuevo texto
+
